@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+langchain-nvidia-ai-endpoints
+pandas
+numpy
+plotly
+openpyxl
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+tabulate
