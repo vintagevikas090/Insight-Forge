@@ -42,7 +42,7 @@ Transforms analytical results into human-readable summaries, key findings, and b
 
 ## 📸 Demo
 Watch the Demo video of the project.
-[▶️ Watch Demo](./assets/AI Data Analyst Assistant.mp4)
+[▶️ Watch Demo](./assets/demo.mp4)
 
 ---
 
