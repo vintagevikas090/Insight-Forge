@@ -74,7 +74,7 @@ Watch the Demo video of the project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vintagevikas090/insight-forge.git
+git clone https://github.com/vintagevikas090/Insight-Forge.git
 
 cd insight-forge
 ```
