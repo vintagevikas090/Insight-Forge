@@ -6,6 +6,13 @@ InsightForge is an AI-powered, multi-agent analytics platform that automates dat
 
 ---
 
+## 📸 Demo
+Watch the Demo video of the project.
+[▶️ Watch Demo](./assets/demo.mp4)
+
+---
+
+
 ## 🚀 Key Features
 
 * **Automated Data Profiling**: Instantly analyze dataset structure, including row and column counts, missing values, and data types.
@@ -37,12 +44,6 @@ Identifies appropriate chart types and creates interactive Plotly visualizations
 ### 4. Insight Generation Agent
 
 Transforms analytical results into human-readable summaries, key findings, and business recommendations.
-
----
-
-## 📸 Demo
-Watch the Demo video of the project.
-[▶️ Watch Demo](./assets/demo.mp4)
 
 ---
 
